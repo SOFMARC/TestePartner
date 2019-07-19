@@ -1,0 +1,14 @@
+C:\Projetos\TesteApiPartner\bin\Debug\netcoreapp2.1\TesteApiPartner.deps.json
+C:\Projetos\TesteApiPartner\bin\Debug\netcoreapp2.1\TesteApiPartner.runtimeconfig.json
+C:\Projetos\TesteApiPartner\bin\Debug\netcoreapp2.1\TesteApiPartner.runtimeconfig.dev.json
+C:\Projetos\TesteApiPartner\bin\Debug\netcoreapp2.1\TesteApiPartner.dll
+C:\Projetos\TesteApiPartner\bin\Debug\netcoreapp2.1\TesteApiPartner.pdb
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.csprojAssemblyReference.cache
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.RazorAssemblyInfo.cache
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.RazorAssemblyInfo.cs
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.AssemblyInfoInputs.cache
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.AssemblyInfo.cs
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.RazorTargetAssemblyInfo.cache
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.dll
+C:\Projetos\TesteApiPartner\obj\Debug\netcoreapp2.1\TesteApiPartner.pdb
